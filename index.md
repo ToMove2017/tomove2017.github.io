@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: false
+author_profile: true
 ---
 
 ToMove is a school project for the "Applicazioni Internet" course at Politecnico di Torino.
