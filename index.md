@@ -5,6 +5,8 @@ author_profile: true
 
 ToMove is a school project for the "Applicazioni Internet" course at Politecnico di Torino.
 
+It is an internet application, based on AngularJS for the frontend and on Spring webservices for the backend, which provides services related to public transportation giving access to buslines, path calculation and chat on some predefiend topics.
+
 ## Project members
 
 - Alessio Ciavarella [[linkedin](https://www.linkedin.com/in/alessio-ciavarella-30ba84b3/)]
